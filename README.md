@@ -19,42 +19,29 @@ It is divided into two main parts:
 ---
 
 ## 📂 Directory Structure
-
-Foundations-of-Social-Sciences-Module-2B/
-│
-├── README.md
-│
-├── Part I - Sociological Research/
-│ ├── Notes/
-│ │ ├── L1.md
-│ │ ├── L2.md
-│ │ ├── L3.md
-│ │ ├── L4.md
-│ │ ├── L5.md
-│ │ ├── L6.md
-│ │ ├── L7.md
-│ │ ├── L8.md
-│ │ ├── L9.md
-│ │ └── L10.md
-│ │
-│ └── Summaries/
-│ ├── Summary 1.md
-│ └── Summary 2.md
-│
-└── Part II/
-├── Notes/
-│ ├── L1.md
-│ ├── L2.md
-│ ├── L3.md
-│ ├── L4.md
-│ ├── L5.md
-│ ├── L6.md
-│ ├── L7.md
-│ └── L8.md
-│
-└── Summaries/
-├── Summary 1.md
-└── Summary 2.md
+README.md
+Part I - Sociological Research/Notes/L1.md
+Part I - Sociological Research/Notes/L2.md
+Part I - Sociological Research/Notes/L3.md
+Part I - Sociological Research/Notes/L4.md
+Part I - Sociological Research/Notes/L5.md
+Part I - Sociological Research/Notes/L6.md
+Part I - Sociological Research/Notes/L7.md
+Part I - Sociological Research/Notes/L8.md
+Part I - Sociological Research/Notes/L9.md
+Part I - Sociological Research/Notes/L10.md
+Part I - Sociological Research/Summaries/Summary 1.md
+Part I - Sociological Research/Summaries/Summary 2.md
+Part II/Notes/L1.md
+Part II/Notes/L2.md
+Part II/Notes/L3.md
+Part II/Notes/L4.md
+Part II/Notes/L5.md
+Part II/Notes/L6.md
+Part II/Notes/L7.md
+Part II/Notes/L8.md
+Part II/Summaries/Summary 1.md
+Part II/Summaries/Summary 2.md
 
 
 ---
