@@ -1,6 +1,5 @@
-# Foundations-of-Social-Sciences-Module-2B
-(INSTITUTIONS, GOVERNMENT AND SOCIETY)
 # Notes for Foundations of Social Sciences - Module 2B
+(INSTITUTIONS, GOVERNMENT AND SOCIETY)
 ## Part I - Sociological Research
 ## Part II - Institutions and Economic Outcomes
 
